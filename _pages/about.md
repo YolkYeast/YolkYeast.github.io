@@ -22,15 +22,17 @@ I pursue to build applicable models to make contributions to the real world! �
 
 
 My current research interests include 
-- <span style='background-color: #ffffdd'>**Multimodal ❤️**</span>
+- <span style='background-color: #ffffdd'>**Multimodal**</span>
 - <span style='background-color: #ffffdd'>**Out-of-Distribution Generalization**</span>
+- <span style='background-color: #ffffdd'>**Continual Learning**</span>
 - <span style='background-color: #ffffdd'>**Foundation Models**</span>
 - <span style='background-color: #ffffdd'>**Perception in Self-Driving**</span> 
 
 
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉 One paper was successfully submitted to ICRA'24 &nbsp;
+- *2024.02*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Continual Test-time Adaptation</span>
+- *2023.12*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Lane Detection Generalization</span>
 - *2023.03*: &nbsp;🎉 I started my new research journey at [KAIST MLAI LAB](https://www.mlai-kaist.com/) (Under the supervision of Prof. Sung Ju Hwang) &nbsp;
 - *2023.01*: &nbsp;🎉 One paper was oral-presented at <span style='background-color: #f1f8ff'>WACV'23</span> &nbsp;
 - *2022.12*: &nbsp;🎉 I finished my first research internship at [NAVER LABS](https://www.naverlabs.com/) well 🚙 &nbsp;
@@ -41,13 +43,13 @@ My current research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/becotta_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation** [[project]](https://daeunni.github.io/becotta/)
+- **BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation** [[project]](https://becotta-ctta.github.io/)  
   - <u>Daeun Lee*</u>, Jaehong Yoon\*, Sung Ju Hwang (* denotes equal contribution) 
   - This work was done at the <span style='background-color: #f1f8ff'>KAIST MLAI Lab</span>. 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2024 Under review</div><img src='images/icra24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/icra24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **Improving Lane Detection Generalization: A Novel Framework Using HD Maps for Boosting Diversity** [[paper]](https://arxiv.org/pdf/2311.16589.pdf)
