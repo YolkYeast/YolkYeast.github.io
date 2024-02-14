@@ -90,10 +90,9 @@ My current research interests include
 -----
 
 # 📖 Educations
-- *2019.03 - 2024.02 (Will be graduated)*, **B.S.** in Statistics. Korea University. (GPA: 4.0/4.5)
+- *2019.03 - 2024.02*, **B.S.** in Statistics. Korea University. (GPA: 4.0/4.5)
   
   - *2020 - 2024*, **Special Scholarship** for outstanding students.
-  - `Selected Coursework` Data Structures, Algorithms, Deep Learning, Probability Theory, Computer Programming
 
 -----
 
