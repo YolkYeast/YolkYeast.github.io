@@ -43,7 +43,7 @@ My current research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/becotta_v2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation** [[project]](https://becotta-ctta.github.io/)  
+- **BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation** [[paper]](https://arxiv.org/abs/2402.08712) [[project]](https://becotta-ctta.github.io/) [[code]](https://github.com/daeunni/BECoTTA)    
   - <u>Daeun Lee*</u>, Jaehong Yoon\*, Sung Ju Hwang (* denotes equal contribution) 
   - This work was done at the <span style='background-color: #f1f8ff'>KAIST MLAI Lab</span>. 
 </div>
