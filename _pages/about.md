@@ -16,7 +16,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Thanks for visiting my website! This is my [CV](https://drive.google.com/file/d/1ktALibs3QqrpzEss_h49KLyHWqME2em4/view?usp=drive_link).    
+Thanks for visiting my website! 
 I am an undergraduate student at Korea University, who is interested in <span style='background-color: #ffffdd'>Robust / Interpretable Modeling</span>.    
 I pursue to build applicable models to make contributions to the real world! 🏞️   
 
