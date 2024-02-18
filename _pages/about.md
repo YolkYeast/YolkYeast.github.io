@@ -117,8 +117,16 @@ My current research interests include
 - *2021.05*, <span style='background-color: #f1f8ff'>**2nd place**</span>, [Digital Innovation Big Data Contest](https://github.com/daeunni/KED_Project)
 - *2020.12*, <span style='background-color: #f1f8ff'>**1st place**</span>, [Financial Big Data Festival](https://github.com/daeunni/Insurance-contest)
 - *2020.05*, <span style='background-color: #f1f8ff'>**TOP 2%**</span>, [KAKAO ARENA](https://github.com/daeunni/kakao-arena)
+  
 
 ----
 # 🏫 Teaching Assistant
 - *2023.03 - current*, Computer Vision Mentor, 5th/6th NAVER BoostCamp
 - *2022.06 - 2022.10*, Computer Vision Mentor, YearDream School
+
+-----
+
+# 💐 Acknowledgement   
+I always believe my achievements and learning are from my great advisers and collaboration.     
+I really appreciate [Jinkyu Kim](https://visionai.korea.ac.kr/), [Jaehong Yoon](https://jaehong31.github.io/), [Minhyeok Heo](https://www.linkedin.com/in/minhyeok-heo-b66a96179/), [Sung Ju Hwang](http://www.sungjuhwang.com/), [Sungbin Lim](https://www.sungbin-lim.net/). 
+
