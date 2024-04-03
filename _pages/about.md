@@ -17,7 +17,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Thanks for visiting my website! 
-I am an undergraduate student at Korea University, who is interested in <span style='background-color: #ffffdd'>Robust / Interpretable Modeling</span>.    
+I am an incoming PhD student who is interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span>.    
 I pursue to build applicable models to make contributions to the real world! 🏞️   
 
 
@@ -26,11 +26,11 @@ My current research interests include
 - <span style='background-color: #ffffdd'>**Out-of-Distribution Generalization**</span>
 - <span style='background-color: #ffffdd'>**Continual Learning**</span>
 - <span style='background-color: #ffffdd'>**Foundation Models**</span>
-- <span style='background-color: #ffffdd'>**Perception in Self-Driving**</span> 
 
 
 
 # 🔥 News
+- *2024.03*: &nbsp;🎓 I finally graduated from Korea University and will start PhD journey in the US!
 - *2024.02*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Continual Test-time Adaptation</span>
 - *2023.12*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Lane Detection Generalization</span>
 - *2023.03*: &nbsp;🎉 I started my new research journey at [KAIST MLAI LAB](https://www.mlai-kaist.com/) (Under the supervision of Prof. Sung Ju Hwang) &nbsp;
@@ -90,16 +90,18 @@ My current research interests include
 -----
 
 # 📖 Educations
-- *2019.03 - 2024.02*, **B.S.** in Statistics. Korea University. (GPA: 4.0/4.5)
+- *2019.03 - 2024.02*, **B.E.** in Statistics. Korea University. (GPA: 4.0/4.5)
   
   - *2020 - 2024*, **Special Scholarship** for outstanding students.
 
 -----
 
 # 💻 Research Experiences
-- <span style='background-color: #f1f8ff'>**CVPR 2024, CVPR 2022, ECCV 2022 Reviewer**</span>
-  
-- *2023.03 - current*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[MLAI Lab](https://www.mlai-kaist.com/)**, South Korea.
+- <span style='background-color: #f1f8ff'>**CVPR 2022, ECCV 2022, CVPR 2024, ECCV 2024 Reviewer**</span>
+
+- *2024.03 - current*, <span style='background-color: #f1f8ff'>**Contract Researcher**</span>, **[MLAI Lab](https://www.mlai-kaist.com/)**, South Korea.
+      
+- *2023.03 - 2024.02*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[MLAI Lab](https://www.mlai-kaist.com/)**, South Korea.
     - Under the supervision of Prof. Sung Ju Hwang
   
 - *2022.07 - 2022.12*, <span style='background-color: #f1f8ff'>**Research Intern**</span>, **[NAVER LABS](https://www.naverlabs.com/)**, South Korea.
