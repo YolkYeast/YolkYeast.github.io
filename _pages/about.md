@@ -16,9 +16,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Thanks for visiting my website! 
-I am an incoming PhD student who is interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span>.    
-I pursue to build applicable models to make contributions to the real world! 🏞️   
+Thanks for visiting my website! ✨      
+I am an incoming CS PhD student at the University of North Carolina at Chapel Hill MURGe-Lab (Advisor: Mohit Bansal).       
+I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions for the real world!    
 
 
 My current research interests include 
@@ -30,7 +30,7 @@ My current research interests include
 
 
 # 🔥 News
-- *2024.03*: &nbsp;🎓 I finally graduated from Korea University and will start PhD journey in the US!
+- *2024.03*: &nbsp;🎓 I received BE degree at KU and will start PhD journey at the University of North Carolina at Chapel Hill [MURGe-Lab](https://murgelab.cs.unc.edu/)!
 - *2024.02*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Continual Test-time Adaptation</span>
 - *2023.12*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Lane Detection Generalization</span>
 - *2023.03*: &nbsp;🎉 I started my new research journey at [KAIST MLAI LAB](https://www.mlai-kaist.com/) (Under the supervision of Prof. Sung Ju Hwang) &nbsp;
