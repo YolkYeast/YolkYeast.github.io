@@ -17,8 +17,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Thanks for visiting my website! ✨      
-I am an incoming CS PhD student at the University of North Carolina at Chapel Hill MURGe-Lab (Advisor: Mohit Bansal).       
-I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions for the real world!    
+I am an incoming CS PhD student at UNC-Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: Mohit Bansal).    
+Before starting PhD, I was advised by Jinkyu Kim at Korea University and Sung Ju Hwang at KAIST.      
+I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!      
 
 
 My current research interests include 
@@ -49,10 +50,10 @@ My current research interests include
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/icra24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/new_hdmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **Improving Lane Detection Generalization: A Novel Framework Using HD Maps for Boosting Diversity** [[paper]](https://arxiv.org/pdf/2311.16589.pdf)
+- **HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization** [[paper]](https://arxiv.org/pdf/2311.16589.pdf)
   - <u>Daeun Lee</u>, Minhyeok Heo, Jiwon Kim
   - This work was done at <span style='background-color: #f1f8ff'>NAVER LABS</span>. 
 </div>
