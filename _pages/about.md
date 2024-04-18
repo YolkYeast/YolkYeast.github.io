@@ -17,10 +17,10 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Thanks for visiting my website! ✨      
-I am an incoming CS PhD student at UNC-Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: Mohit Bansal).    
-Before starting PhD, I was advised by Jinkyu Kim at Korea University and Sung Ju Hwang at KAIST.      
-I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!      
-
+I am an incoming CS PhD student at UNC-Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: [Prof.Mohit Bansal](https://www.cs.unc.edu/~mbansal/)).    
+Before starting PhD, I was advised by [Prof.Jinkyu Kim](https://visionai.korea.ac.kr/) at Korea University and [Prof.Sung Ju Hwang](http://www.sungjuhwang.com/) at KAIST.      
+I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!             
+In particular, I want to make <span style='background-color: #ffffdd'>user-interactive AI</span> which can help underrepresented people all around the world.      
 
 My current research interests include 
 - <span style='background-color: #ffffdd'>**Multimodal**</span>
