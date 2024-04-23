@@ -31,9 +31,9 @@ My current research interests include
 
 
 # 🔥 News
+- *2024.04*: &nbsp;🎉 One paper is accepted at <span style='background-color: #f1f8ff'>CVPRW'24.</span> &nbsp;
 - *2024.03*: &nbsp;🎓 I received BE degree at KU and will start PhD journey at the University of North Carolina at Chapel Hill [MURGe-Lab](https://murgelab.cs.unc.edu/)!
 - *2024.02*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Continual Test-time Adaptation</span>
-- *2023.12*: &nbsp;🔥 New preprint was out related to <span style='background-color: #f1f8ff'>Lane Detection Generalization</span>
 - *2023.03*: &nbsp;🎉 I started my new research journey at [KAIST MLAI LAB](https://www.mlai-kaist.com/) (Under the supervision of Prof. Sung Ju Hwang) &nbsp;
 - *2023.01*: &nbsp;🎉 One paper was oral-presented at <span style='background-color: #f1f8ff'>WACV'23</span> &nbsp;
 - *2022.12*: &nbsp;🎉 I finished my first research internship at [NAVER LABS](https://www.naverlabs.com/) well 🚙 &nbsp;
@@ -50,7 +50,7 @@ My current research interests include
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/new_hdmap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/new_hdmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization** [[paper]](https://arxiv.org/pdf/2311.16589.pdf)
