@@ -53,7 +53,7 @@ My current research interests include
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPRW 2024</div><img src='images/new_hdmap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization** [[paper]](https://arxiv.org/pdf/2311.16589.pdf)
+- **HD Maps are Lane Detection Generalizers: A Novel Generative Framework for Single-Source Domain Generalization** 
   - <u>Daeun Lee</u>, Minhyeok Heo, Jiwon Kim
   - This work was done at <span style='background-color: #f1f8ff'>NAVER LABS</span>. 
 </div>
