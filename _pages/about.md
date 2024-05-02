@@ -23,10 +23,10 @@ I am interested in <span style='background-color: #ffffdd'>Robust / Interpretabl
 In particular, I want to make <span style='background-color: #ffffdd'>user-interactive AI</span> which can help underrepresented people all around the world.      
 
 My current research interests include 
-- <span style='background-color: #ffffdd'>**Multimodal**</span>
+- <span style='background-color: #ffffdd'>**User-Interactive Multimodal**</span>
 - <span style='background-color: #ffffdd'>**Out-of-Distribution Generalization**</span>
 - <span style='background-color: #ffffdd'>**Continual Learning**</span>
-- <span style='background-color: #ffffdd'>**Foundation Models**</span>
+
 
 
 
@@ -116,7 +116,7 @@ My current research interests include
 -----
 
 # 🎖 Honors and Awards
-- *2020.12*, <span style='background-color: #f1f8ff'>**5st place**</span>, ICT Autonomous Driving Project
+- *2021.12*, <span style='background-color: #f1f8ff'>**5st place**</span>, ICT Autonomous Driving Project
 - *2021.05*, <span style='background-color: #f1f8ff'>**2nd place**</span>, [Digital Innovation Big Data Contest](https://github.com/daeunni/KED_Project)
 - *2020.12*, <span style='background-color: #f1f8ff'>**1st place**</span>, [Financial Big Data Festival](https://github.com/daeunni/Insurance-contest)
 - *2020.05*, <span style='background-color: #f1f8ff'>**TOP 2%**</span>, [KAKAO ARENA](https://github.com/daeunni/kakao-arena)
