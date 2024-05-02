@@ -31,7 +31,7 @@ My current research interests include
 
 
 # 🔥 News
-- *2024.04*: &nbsp;🎉 One paper got accepted to <span style='background-color: #ffe9f4'>**ICML'24**</span> &nbsp;
+- *2024.05*: &nbsp;🎉 One paper got accepted to <span style='background-color: #ffe9f4'>**ICML'24**</span> &nbsp;
 - *2024.04*: &nbsp;🎉 One paper got accepted to <span style='background-color: #ffe9f4'>**CVPRW'24**</span> &nbsp;
 - *2024.03*: &nbsp;🎓 I received BE degree at KU and will start PhD journey at the University of North Carolina at Chapel Hill [MURGe-Lab](https://murgelab.cs.unc.edu/)!
 - *2023.03*: &nbsp;🎉 I started my new research journey at [KAIST MLAI LAB](https://www.mlai-kaist.com/) (Under the supervision of Prof. Sung Ju Hwang) &nbsp;
