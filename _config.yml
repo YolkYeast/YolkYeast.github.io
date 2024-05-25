@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Daeun Lee"
+title                    : "Yan Zhou (周琰)"
 description              : "Incoming PhD student🎓"
-repository               : "daeunni/daeunni.github.io"
+repository               : "YolkYeast/YolkYeast.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,29 +21,29 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Daeun Lee"
+  name             : "Yan Zhou (周琰)"
   avatar           : "images/daeun_grad.png"
-  bio              : "Korea Univ. Statistics"
-  location         : "Seoul, South Korea"
+  bio              : "Zhejiang University. Electronic Information@Information and Computing Science"
+  location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.co.kr/citations?user=hdMDLwcAAAAJ&hl=ko"
-  email            : "goodgpt@korea.ac.kr"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=s7NlxN8AAAAJ"
+  email            : # "yanzhougemzhou@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://daeun-computer-uneasy.tistory.com/"
+  uri              : #" https://daeun-computer-uneasy.tistory.com/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "daeunni"
+  github           : # "YolkYeast"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "daeunlee00"
+  linkedin         : # "daeunlee00"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : # e.g., "https://orcid.org/xxxx"
   pinterest        :
