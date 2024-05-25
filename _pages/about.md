@@ -17,13 +17,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Thanks for visiting my website! ✨      
-<!--I am an incoming CS PhD student at UNC-Chapel Hill, [MURGe-Lab](https://murgelab.cs.unc.edu/) (Advisor: [Prof.Mohit Bansal](https://www.cs.unc.edu/~mbansal/)).-->
-I am currently a master's degree student (in the field of electronic information/information and computational science at Zhejiang University).   
-<!--Before starting PhD, I was advised by [Prof.Jinkyu Kim](https://visionai.korea.ac.kr/) at Korea University and [Prof.Sung Ju Hwang](http://www.sungjuhwang.com/) at KAIST.-->      
+
+I am currently a master's degree student (in the field of electronic information/information and computational science at **Zhejiang University**).   
+    
 I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!             
 In particular, I want to make <span style='background-color: #ffffdd'>user-interactive AI</span> which can help underrepresented people all around the world.      
-I enjoy exploring on my own. I have a passion for knowledge and learning.
-For me, **All Knowledge is Good Knowledge!**
+
+I enjoy exploring on my own. I have a passion for knowledge and learning. **For me, All Knowledge is Good Knowledge!**
 
 My current research interests include 
 - <span style='background-color: #ffffdd'>**User-Interactive Multimodal**</span>
