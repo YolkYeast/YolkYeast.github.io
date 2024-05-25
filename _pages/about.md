@@ -18,17 +18,17 @@ redirect_from:
 
 Thanks for visiting my website! ✨      
 
-I am currently a master's degree student (in the field of electronic information/information and computational science at **Zhejiang University**).   
+I am currently a master's degree student (in the field of Electronic Information/Information and Computational Science at **Zhejiang University**).   
     
-I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!             
-In particular, I want to make <span style='background-color: #ffffdd'>user-interactive AI</span> which can help underrepresented people all around the world.      
+<!--I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!             
+In particular, I want to make <span style='background-color: #ffffdd'>user-interactive AI</span> which can help underrepresented people all around the world. -->     
 
-I enjoy exploring on my own. I have a passion for knowledge and learning. **For me, All Knowledge is Good Knowledge!**
+I enjoy exploring. I have a passion for knowledge and learning. **For me, All Knowledge is Good Knowledge!**
 
 My current research interests include 
-- <span style='background-color: #ffffdd'>**User-Interactive Multimodal**</span>
-- <span style='background-color: #ffffdd'>**Out-of-Distribution Generalization**</span>
-- <span style='background-color: #ffffdd'>**Continual Learning**</span>
+- <span style='background-color: #ffffdd'>**AI@Mathematics**</span>
+- <span style='background-color: #ffffdd'>**Computer Vision**</span>
+- <span style='background-color: #ffffdd'>**Deep Learning**</span>
 
 
 
@@ -133,6 +133,5 @@ My current research interests include
 -----
 
 # 💐 Acknowledgement   
-I always believe my achievements and learning are from my great advisers and collaboration.     
-I really appreciate [Jinkyu Kim](https://visionai.korea.ac.kr/), [Jaehong Yoon](https://jaehong31.github.io/), [Minhyeok Heo](https://www.linkedin.com/in/minhyeok-heo-b66a96179/), [Sung Ju Hwang](http://www.sungjuhwang.com/), [Sungbin Lim](https://www.sungbin-lim.net/). 
+I extend my deepest appreciation to my family members for their unwavering support and express my heartfelt💕 gratitude to China!
 
