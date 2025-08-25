@@ -18,7 +18,7 @@ redirect_from:
 
 Thanks for visiting my website! ✨      
 
-I am currently a master's degree student (in the field of Electronic Information/Information and Computational Science at **Zhejiang University**).   
+I am currently a PhD candidate student in the field of Computer Science and Technology at **Zhejiang University** and **Shanghai Jiao Tong University**.   
     
 <!--I am interested in <span style='background-color: #ffffdd'>Robust / Interpretable AI</span> and pursuing to build applicable models to make contributions to the real world!             
 In particular, I want to make <span style='background-color: #ffffdd'>user-interactive AI</span> which can help underrepresented people all around the world. -->     
