@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yan Zhou (周琰)"
+title                    : "Yan Zhou"
 description              : "PhD student🎓"
 repository               : "YolkYeast/YolkYeast.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yan Zhou (周琰)"
-  avatar           : "images/daeun_grad.png"
-  bio              : "Zhejiang University / Shanghai Jiao Tong University"
+  name             : "Yan Zhou"
+  avatar           : "images/1280px-UnzenSummer.png"
+  bio              : "Zhejiang University   Shanghai Jiao Tong University"
   location         : "Hangzhou, China / Shanghai, China"
   employer         :
   pubmed           : 
