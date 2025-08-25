@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yan Zhou (周琰)"
-description              : "Incoming PhD student🎓"
+description              : "PhD student🎓"
 repository               : "YolkYeast/YolkYeast.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yan Zhou (周琰)"
   avatar           : "images/daeun_grad.png"
-  bio              : "Zhejiang University"
-  location         : "Hangzhou, China"
+  bio              : "Zhejiang University / Shanghai Jiao Tong University"
+  location         : "Hangzhou, China / Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=s7NlxN8AAAAJ"
-  email            : # "yanzhougemzhou@zju.edu.cn"
+  email            : "yanzhougemzhou@outlook.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              : #" https://daeun-computer-uneasy.tistory.com/"
   bitbucket        :
